@@ -1,0 +1,568 @@
+
+		      *************************************M-Health Error Log *************************************
+
+
+
+Wed May 25 13:01:08 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+Wed May 25 13:01:16 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:05:48 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:05:56 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:06:11 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:07:06 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:07:10 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:07:24 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:07:43 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:08:06 2016 Unable to get patients list.i.e Unknown column 'f_id' in 'group statement'
+
+Wed May 25 13:09:09 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:09 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:09 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:09 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:19 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:19 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:19 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:09:19 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:00 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:00 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:00 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:00 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:05 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:05 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:05 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:05 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:55 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:55 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:55 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:10:55 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:01 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:01 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:01 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:01 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:52 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:57 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:57 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:58 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:11:58 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:04 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:04 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:04 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:04 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:21 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:21 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:21 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:12:21 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Wed May 25 13:22:51 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:22:51 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:18 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:25 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:41 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:46 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:23:54 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:24:11 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:09 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get County.i.e Unknown column 'f_county' in 'field list'
+
+Wed May 25 13:25:16 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:32 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:32 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:32 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:32 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:36 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:36 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:36 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Wed May 25 13:26:36 2016 Unable to get f_type.i.e Unknown column 'facility_type' in 'field list'
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 6:25:18 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 8:27:17 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 8:27:17 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 8:27:17 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 9:54:20 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 9:54:20 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 9:54:20 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 9:55:10 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 9:55:10 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 9:55:10 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 10:03:14 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 10:03:18 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 10:05:12 2016 Unable to get patients list.i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 10:07:40 2016 Unable to get sum of facilities  i.e Unknown column 'pf_attach' in 'field list'
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum of facilities  i.e Unknown column 'pf_attach' in 'field list'
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum of facilities  i.e Unknown column 'pf_attach' in 'field list'
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:07:40 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:09:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:33 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 10:49:34 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:03:41 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:14:06 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:14:06 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:14:06 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:14:06 2016 Unable to get county list.i.e Unknown column 'f_county' in 'group statement'
+
+Thu May 26 11:16:26 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:26 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:26 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:26 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:26 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:26 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:58 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:58 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:58 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:58 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:58 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:16:58 2016 Unable to get sum clients i.e Unknown column 'f_county' in 'where clause'
+
+Thu May 26 11:26:16 2016 Unable to get sum of facilities  i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 11:26:16 2016 Unable to get sum of facilities  i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 11:26:16 2016 Unable to get sum of facilities  i.e Unknown column 'county' in 'where clause'
+
+Thu May 26 11:32:22 2016 Unable to get patients list.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY f_county' at line 1
+
+Thu May 26 11:34:45 2016 Unable to get patients list.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY f_county' at line 1
+
+Thu May 26 11:35:05 2016 Unable to get patients list.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY f_county' at line 1
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:41:02 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 11:46:57 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 12:05:31 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 12:05:44 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 12:12:00 2016 Unable to get patients list.i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Thu May 26 12:19:02 2016 Unable to get sum clients i.e Table 'mpep_dev.tbl_patient_appointment' doesn't exist
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 9:22:54 2016 Unable to get incoming messages for patient i.e Unknown column 'month' in 'where clause'
+
+Fri May 27 10:38:31 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Fri May 27 10:38:40 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Fri May 27 13:12:27 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Fri May 27 13:12:27 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Fri Jun 3 13:18:07 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Tue Jun 14 12:29:17 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Tue Jul 12 6:32:09 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Tue Jul 12 6:32:09 2016 Unable to get Facility Name.i.e You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
